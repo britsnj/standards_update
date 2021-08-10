@@ -1,0 +1,797 @@
+Microsoft WAW02 
+
+26_05_13 Medium Voltage Cables
+
+
+
+
+
+
+
+
+
+
+
+Microsoft WAW02
+
+
+
+
+
+Section 26 05 13
+
+
+
+Medium Voltage Cables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medium Voltage Cables
+
+Project Number 20_D065
+
+Document Number WAW02-E-SP-002
+
+IFC Issue
+
+Oct 2020
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft WAW02
+
+Medium Voltage Cables
+
+
+
+
+
+
+
+Project Number 20_D065
+
+Document Number WAW02-E-SP-002
+
+
+
+
+
+
+
+CURRENT ISSUE
+
+Issue No:
+
+04
+
+Issue Date:
+
+30/10/2020
+
+Sign Off
+
+Originator:
+
+Checker:
+
+Reason For Issue:
+
+Print Name:
+
+Nico Brits
+
+John Clarke
+
+IFC Issue
+
+
+
+
+
+PREVIOUS ISSUES (Type Names)
+
+Issue No:
+
+Date:
+
+Originator:
+
+Checker:
+
+Reason For Issue:
+
+01
+
+17 August 2020
+
+John Clarke
+
+Gary O’Keefe
+
+50% Review
+
+02
+
+21 Sept 2020
+
+Nico Brits
+
+John Clarke
+
+90% Review
+
+03
+
+02 Oct 2020
+
+Nico Brits
+
+John Clarke
+
+IFC Issue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This document and its contents are confidential and have been prepared and are intended solely for Microsoft information and use in relation to MicrosoftWAW02
+
+Ethos Engineering accepts no responsibility or liability to any other party (exception for death and personal injury) in respect of or arising out of or in connection with this document and/or its contents.
+
+
+
+Copyright:
+
+The copyright of this document is vested in Ethos Engineering. This document may not be reproduced in whole or in part without their express written permission.
+
+
+
+Note
+
+All item of plant, equipment and fittings need to be designed and installed to meet all the requirements specified in IS- and EN- standards and which are applicable to the facility, placing and its function. All items must remain operable in that Zone for the prescribed operational times or period of operation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+		1.	General	5
+
+		1.1.	Summary	5
+
+		1.2.	Definitions	5
+
+		1.3.	References	5
+
+		1.4.	Submittal Documentation Requirements	5
+
+		1.5.	Submittals	5
+
+		1.6.	Site Conditions	5
+
+		1.7.	Quality Assurance	6
+
+		1.8.	Delivery, Storage, and Handling	6
+
+		1.9.	Warranty	7
+
+		1.10.	Extra Materials (Not required)	7
+
+		2.	Products	7
+
+		2.1.	Manufacturers	7
+
+		2.2.	Construction Products Regulation (CPR) Requirements	7
+
+		2.3.	Cables	7
+
+		2.4.	Armored Cables	8
+
+		2.5.	Splice Kits	9
+
+		2.6.	Solid Terminations	10
+
+		3.	Execution	10
+
+		3.1.	Installation	10
+
+		3.2.	Armored Cable Installation	11
+
+		3.3.	Field Quality Control	12
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+
+
+				
+
+				
+
+				
+
+				
+
+
+
+		
+
+ General
+
+Summary
+
+Section Includes: cables and related splices, terminations, and accessories for medium-voltage electrical distribution systems.
+
+
+
+Definitions
+
+Refer to Section 26 05 00, “Common Work Results for Electrical” and Section 01 42 00, “References” for common definitions used throughout all specifications.
+
+
+
+References
+
+Refer to Section 01 42 00, “References” for common references used throughout all specifications.
+
+Refer to Section 26 12 19, “Pad-Mounted Liquid-Filled Medium-Voltage Transformers” and Section 26 13 00, “Medium Voltage Switchgear” for related medium voltage equipment requirements.
+
+
+
+Submittal Documentation Requirements
+
+Refer to Section 01 33 00, "Submittal Procedures" for submittal documentation requirements.
+
+
+
+Submittals
+
+Action Submittals:
+
+Product Data:  For each type of cable indicated.  Include splices and terminations for cables and cable accessories.
+
+Material Certificates:  For each cable and accessory type, signed by manufacturers.
+
+Submit medium voltage cable splicer certificate of competency and experience 30 days before splices or terminations are made in medium voltage cables.
+
+Source quality-control test reports.
+
+Cable pulling calculations, including side wall pressure and jam probability for each cable. Provide layout drawing indicating all proposed splices including pulling splices.
+
+Closeout Submittals:
+
+Field quality-control test reports.
+
+
+
+Site Conditions
+
+Refer to Section 26 05 00, "Common Work Results for Electrical" for site conditions applicable to this project.
+
+
+
+
+
+
+
+Quality Assurance
+
+
+
+
+
+
+
+Refer to Section 26 05 00, “Common Work Results for Electrical” and Section 01 40 00, “Quality Requirements” for typical quality assurance requirements.
+
+Engage a cable splicer, trained and certified by splice material manufacturer, to splice, and terminate medium-voltage cable. 
+
+Workers' Competency: Medium voltage cable splicer experience during the immediate past three years shall include performance in splicing and terminating cables of the types and classification being provided under this scope of works. 
+
+Before assigning cable splicer to work covered by this specification, the subcontractor shall provide Microsoft with the names of the cable splicers to be employed, together with satisfactory proof that each splicer has had at least three years’ experience in splicing medium-voltage cables and is experienced with the type and rating of cables to be spliced. 
+
+Testing Agency Qualifications:  An independent agency, with the experience and capability to conduct the testing indicated, with testing as defined by the EU Occupational Safety and Health Strategy Framework , and that is acceptable to authorities having jurisdiction.
+
+Testing Agency's Field Supervisor:  Person currently certified to EN ISO/IEC 17.025 standard, by the International Electrical Testing Association or the National Institute for Certification in Engineering Technologies to supervise on-site testing specified in Part 3.
+
+Source Limitations:  Obtain each type of cable and each type of accessory through one source from a single manufacturer.
+
+Electrical Cables, Terminations, and Accessories:  Listed and labelled, per IEC 60502, the EU Workplace Health and Safety Directive (89/391/EEC), and by a Nationally Recognized Testing Laboratory (NRTL) such as KEMA as defined by EU-OSHA in 29 CFR 1910.7 and which is acceptable to the authority having jurisdiction and marked for intended use.
+
+Comply with EN 50575 - Power, control and communication cables - Cables for general applications in construction works subject to reaction to fire requirements
+
+Comply with IEC 61238 - Compression and mechanical connectors for power cables.
+
+Comply with EN 12735 - Copper and copper alloys - Seamless, round tubes for air conditioning and refrigeration.
+
+Comply with EN 61914 - Cable cleats for electrical installations.
+
+Comply with EN 50525 - Low voltage energy cables of rated voltages up to and including 450/750 V.
+
+Comply with EN 62444 - Cable glands for electrical installations.
+
+Comply with IEC 60502 - Power cables with extruded insulation and their accessories for rated voltages from 1 kV.
+
+Comply with HD 620 - Distribution cables with extruded insulation for rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV.
+
+Comply with EN 61936 - Power installations exceeding 1 kV a.c. 
+
+CPR Euro class regulations
+
+Reginal occupational Health and Safety Regulations regarding working conditions.
+
+Delivery, Storage, and Handling
+
+Refer to Section 26 05 00, “Common Work Results for Electrical” for typical requirements.
+
+
+
+Warranty
+
+Refer to Section 26 05 00, “Common Work Results for Electrical” for typical warranty requirements.
+
+
+
+Extra Materials (Not required)
+
+
+
+
+
+Products
+
+Manufacturers
+
+
+
+
+
+
+
+Acceptable Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
+
+Cables:
+
+Prysmian Cables & Systems
+
+Nexan
+
+ABB
+
+NKT
+
+Owner approved equivalent.
+
+Cable Splicing and Terminating Products and Accessories:
+
+Prysmian Cables & Systems.
+
+Wago
+
+Phoenix
+
+Wiedmüller
+
+Owner approved equivalent.
+
+
+
+Construction Products Regulation (CPR) Requirements
+
+All power cables used shall comply with the EU directive: Construction Products Regulation, which relates to cables manufactured or imported after July 1st, 2017 within the EU.
+
+All cables use within the project shall be assessed and classified under the CPR directive, with the manufacturer’s assessment and classification information being made available to the AE at the submittals stage.
+
+Under the CPR EU directive, all cables must be designated under the required classification of Class A through to Class F, with local minimum classification requirements being adhered to, based on the classification of fire test IEC 60332-3-10 buildings according to the national building regulation and national installation rules and also the classification of cables in accordance with EN 13501-6 regarding reaction to fire. 
+
+As part of the submittals process, all cables submitted to the AE for approval shall have (i) CE marking, (ii) a Product Assessment and (iii) a Declaration of Performance from the manufacturer which clearly indicates:
+
+Manufacturer’s details
+
+Cable identification
+
+Evaluation system used
+
+Applicable standards the cable adheres to
+
+CPR certification
+
+Product performance
+
+
+
+Cables
+
+
+
+
+
+
+
+
+
+
+
+Classification:
+
+Class DCA (s1b, d1, a2)
+
+Cable Type: Copper tape shielded.
+
+Comply with:
+
+HD 620 - Distribution cables with extruded insulation for rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV.
+
+EN 60228 - Conductors of insulated cables.
+
+EN 50363 - Insulating, sheathing and covering materials for low voltage energy cables.
+
+EN IEC 60332 - Tests on electric and optical fibre cables under fire conditions.  
+
+EN 60229 - Electric cables - Tests on extruded over sheaths with a special protective function.
+
+
+
+IEC 60502 - Power cables with extruded insulation and their accessories for rated voltages from 1 kV.
+
+EN 60885 - Electrical test methods for electric cables.
+
+IEC 60986 - Short-circuit temperature limits of electric cables with rated voltages from 6 kV (Um = 7,2 kV) up to 30 kV (Um = 36 kV).
+
+EN 61442 - Test methods for accessories for power cables with rated voltages from 6 kV (Um = 7,2 kV) up to 36 kV (Um = 42 kV).
+
+EN 50575 - Power, control and communication cables - Cables for general applications in construction works subject to reaction to fire requirements.
+
+Cable: Insulated cable rated 25 kV,  grounded.
+
+Conductor Material: Copper or aluminum as indicated on Drawings.
+
+Conductor Stranding: 
+
+Permissible short current greater than 50kA for 1 sec Conductor Stranding: 
+
+Copper: Compressed stranded in accordance with EN 60754, Test on gases evolved during combustion of materials from cables, and SS-EN 60228
+
+Low smoke classification based on EN 50575 CPR directives. 
+
+Complete copper: Compact stranded in accordance with EN 60228
+
+Conductor Insulation: Triple extrusion of semiconducting strand screen, cross linked polyethylene insulation (133 percent), semiconducting insulation screen, one layer of 5-mil bare copper wire screen, PVC or polyethylene jacket over cable.
+
+PVC or polyethylene jacket over assembly
+
+Cables shall be UV resistant when subject to long periods of sunlight.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Splice Kits
+
+Splices in Shielded Cables: Include covering the spliced area with metallic tape, or like material, to the original cable shield and by connecting it to the cable shield on each side of the splice to maintain the full rating of the cable shield. Splice kits shall contain all necessary components to reinstate primary cable insulation, metallic shielding and grounding systems and overall jacket to the equivalent of the cable itself.
+
+Connectors and Splice Kits: Comply with IEC 60502-4 - Test requirements on accessories for use on medium voltage power cables and CENELEC HD629.1 - Test requirements on accessories for use on power cables; type as recommended by cable or splicing kit manufacturer for the application.
+
+Splice kits shall be factory engineered and shall accommodate any common form of cable shielding or construction without the need for special adaptors. Kits shall accommodate a wide range of cable sizes and be completely independent of cable manufacturers' tolerances. Kits shall allow splicing cables with different types of insulation, conductor sizes, and shielding construction. Kits shall accommodate commercially available standard connectors.
+
+Splicing Products: As recommended, in writing, by splicing kit manufacturer for specific sizes, ratings, and configurations of cable conductors. Include all components required for complete splice, with detailed instructions.
+
+Splice cables only with written permission of the Microsoft Electrical Engineer.
+
+Heat-shrink splicing kit of uniform, cross-section, polymeric construction with outer heat-shrink jacket.
+
+Cold-shrink splicing kit of uniform cross-section, polymeric construction.
+
+Pre-molded EPDM splicing body kit with cable joint sealed by interference fit of mating parts and cable.
+
+
+
+Solid Terminations
+
+
+
+
+
+
+
+Shielded-Cable Terminations: Comply with the IEC 60502-4. Kit form suitable for use outdoors. Insulation class is equivalent to that of cable. Include shield ground strap for shielded cable terminations. Class 1 terminations with non-tracking rubber skirts shall be used for all terminations. No exceptions without written approval of the Microsoft Electrical Engineer.  
+
+Class 1 Terminations: Heat-shrink type with outer non-tracking tubes; multiple, molded, non-tracking skirt modules; and compression-type two-hole long barrel connector.
+
+Where bolted terminations are provided, insulating boots for the terminations shall be furnished by equipment vendor for contractor installation. Contractor shall provide all other required components such as compression lugs, shield termination kits, stress cones, etc.
+
+Deadbreak Elbow Connectors: Comply with EN 50180, IEC 60137 and CENELEC HD 629.1.
+
+														Fully shielded, fully submersible, hot-stick operable, separable insulated connector suitable for deenergized operation.
+
+														Three-Phase Systems: three wire grounded.
+
+														Single-phase laterals of above system(s).
+
+														 600 ampere rms continuous, with 50 percent 8hour overload.
+
+														 [15.2] kV phase to earth or 26.3 kV phase to phase.
+
+														36.6 kV connectors shall be large interface type.
+
+														Provide cable shield adapter if required for compatibility with specified cable type(s).
+
+														Equipped with integral capacitive voltage detection point for determining voltage conditions.
+
+														Contractor shall be responsible for providing all dead break termination components and accessories
+
+
+
+Execution
+
+Installation
+
+Verify that duct is ready to receive work. Use mandrel and brush to determine if installed conduit is suitable for use.
+
+Install cables per IEC 60502, HD 620 and EBR KJ41:15.
+
+Cables install in ducts shall be selected to ensure they can withstand continuously submersion in water
+
+Cables install outside shall be selected to ensure they can withstand continuous exposure to UV (PVC covering shall be UV stable) and external weathering conditions.
+
+Pull Conductors: Do not exceed manufacturer's recommended maximum pulling tensions and sidewall pressure values.
+
+Where necessary, use manufacturer-approved pulling compound or lubricant that will not deteriorate conductor or insulation.
+
+Use pulling means, including fish tape, cable, rope, and basket-weave cable grips that will not damage cables and raceways. Do not use rope hitches for pulling attachment to cable.
+
+Submit Cable pulling plan to EoR for review and comment prior to pulling cable. 
+
+Install exposed cables parallel and perpendicular to surfaces of exposed structural members and follow surface contours where possible.
+
+Support cables per Section 26 05 29, “Hangers and Supports for Electrical Systems”.
+
+Install "buried-cable" warning tape 300 mm above concrete duct-bank and cables.
+
+In manholes, handholes, pull boxes, junction boxes, and cable vaults, train cables around walls by the longest route from entry to exit and support cables at intervals adequate to prevent sag.
+
+Fireproof cables in pits/chambers using fireproofing tape and glass electrical tape in half-lapped wrapping extended 25 mm into ducts. This shall only apply to cable pits where primary and reserve cables are installed within a common pit/chamber.
+
+Contractor shall lay out all cable runs. Contractor shall provide pulling splices where deemed necessary to make pulls. All splice locations shall be approved in writing by Microsoft Electrical Engineer. Show splice locations on as-constructed drawings.
+
+Use splice kits in above ground locations only. In underground vaults utilize deadbreak hardware as specified in this Section.
+
+Install earthing conductor in each conduit containing phase conductors.
+
+Install terminations at ends of conductors and seal multi-conductor cable ends with standard kits.
+
+Seal around cables passing through fire-rated elements according to Section 07 84 00, Firestopping.
+
+Ground shields of shielded cable at terminations, splices, and separable insulated connectors. Ground metal bodies of terminators, splices, cable and separable insulated-connector fittings, and hardware. Bond shields to distribution equipment ground bus at each end of the feeder, to ground wire and ground rods in each manhole and access point where splices exist. Include this shield bonding as a factor in the Neher-McGrath conductor heat rise calculations and any ampacity calculations.
+
+Identify cables per Section 26 05 53, Identification for Electrical Systems. 
+
+Cable Lashing or Bracing may be required inside switchgear to prevent cable movement and damage during electrical faults. Lashing or bracing of feeders shall be required when the equipment manufacturer requires it in their installation instructions or has included markings indicating it is required. The manufactures cable lashing or bracing requirements shall be followed.
+
+Tie wraps may be used for bundling or training conductors but is expressly prohibited for bracing or lashing as defined above.
+
+
+
+Armored Cable Installation
+
+Underground cable shall be field located by the use of the project model for GPS coordinates before backfilling. The GPS coordinates as well as elevation shall be provided at all fittings, horizontal bends, vertical bends, and at 30m intervals. 
+
+For excavation safety, refer to Section 31 50 13, “Site Trench Excavation Protection.”
+
+Survey information shall be provided to Owner and incorporated into the Contractor BIM model to be provided to Owner for as-built location.
+
+Excavation and Backfill: Comply with Section 31 20 00, “Earth Moving.” The use of heavy-duty, hydraulic-operated compaction equipment is prohibited.
+
+Design of underground direct-buried cables shall be completed by the Contractor and approved by the A/E prior to the purchase or installation of cabling. The Neher-McGrath heat rise study shall comply with Section 26 05 43, “Underground Ducts and Raceways for Electrical Systems.”
+
+Redundant cable separation: For redundant cables, a minimum of 1.8m of separation shall be maintained between cables. If this is not possible due to site constraints or required crossing, then written approval from the A/E project electrical engineer shall be required. Consideration of the heating effects and impact on conductor heat rise and sizing shall also be considered in the actual separation that is required.
+
+Curves and Bends in Cable Routing: Cables shall be run as straight as possible. Radius of bends must be sufficient to meet the requirements of the allowable bending radius of the cables being installed.
+
+Depth: Unless indicated otherwise, install top of cables at least 750mm below finished grade. Do not run cables under deliberate traffic paths for vehicles.
+
+Do not route cables under any structures or footings that would restrict access or put stress on the cables.
+
+Warning Tape: Bury warning tape approximately 300mm above cables.  
+
+
+
+    Field Quality Control
+
+Inspect exposed cable sections for physical damage. Verify that cable is connected according to drawings and that shield grounding, cable support, and terminations are properly installed.
+
+Testing: Engage a qualified testing and inspecting agency to perform the following field tests and inspections and prepare test reports:
+
+Perform each visual and mechanical inspection and electrical test stated in IEC 60502. Certify compliance with test parameters.
+
+Perform resistance measurements through bolted connections with a low-resistance ohmmeter.
+
+Perform an insulation-resistance test on each conductor with all other conductors and shields grounded. Apply voltage in accordance with manufacturer’s published data.
+
+Perform a shield-continuity test on each cable.
+
+Perform DC hipot test on the cables per IEC 60502 procedures and at voltage and times agreed to by the cable manufacturer in writing.  The DC voltage may be limited by the DC withstand limits of the stress cones, load break, dead break, and other installed components.  A complete survey of these installed components shall be conducted prior to performing this testing.Perform VLF withstand test and VLF tan delta power factor/ dissipation factor tests on the cables at voltages and times agreed to by the cable manufacturer in writing.   
+
+After installing medium-voltage cables and before electrical circuitry has been energized, test for compliance with requirements..
+
+After installing medium-voltage cables and before electrical circuitry has been energized, test for compliance with requirements.
+
+Remove and replace malfunctioning units and retest as specified above.
+
+END OF SECTION
+
+	
+
+
+
+
+
+WAW02-E-SP-002    	IFC Issue – Oct 2020	Page 12
