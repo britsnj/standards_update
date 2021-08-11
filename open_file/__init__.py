@@ -12,6 +12,11 @@ document = f.read()
 f.close()
 
 
-std_list = re.findall(r'[E]+[N]+\s+\d{5}', document)
+std_list_raw = re.findall(r'[E]+[N]+\s+[\d{5}]\w.+[^.]', document)
 
-print(std_list)
+std_list_en_final =  []
+
+for item in std_list_raw:
+    std_list_en_final.append(item.strip())
+
+print(std_list_en_final)
